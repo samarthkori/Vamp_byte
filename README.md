@@ -63,8 +63,16 @@ Ensure you have the following installed on your system:
    ```
 
 ## 💻 Usage
+   ```
+   open  terminal and run the command
+   python -m uvicorn backend:app --reload
 
-Provide instructions or code snippets on how to run or use your project:
+   and open a new  terminal without killing a the previous one and run the command
+   python -m streamlit run vampire_ledger_app.py
+   ```                                                              
+ 
+
+
 
 ```
 python main.py
